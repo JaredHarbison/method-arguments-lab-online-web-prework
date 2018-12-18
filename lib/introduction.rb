@@ -3,9 +3,8 @@ def introduction(name)
 end
 
 def introduction_with_language(name, language)
-  puts "Hi, my name is #{name} "
-  
-  
-  def greeting_programmer(name, language)
-  puts "Hello, #{name}. We heard you are a great #{language} programmer."
+  puts "Hi, my name is #{name} "and 
+  I am learning to program in #{language}.
 end
+  
+  
